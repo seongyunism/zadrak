@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <syncparticipants>
-<participant displayName="Git (zadrak)" id="org.eclipse.egit.ui.modelCompareParticipant" secondary_id="1425284643178">
+<participant displayName="Git (zadrak)" id="org.eclipse.egit.ui.modelCompareParticipant" secondary_id="1425285446545">
 <data forceFetch="false" root="false">
 <org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS org.eclipse.team.ui.MODEL_PARTICIPANT_DESCRIPTION="zadrak" startupAction="none">
 <org.eclipse.team.ui.MODEL_PARTICIPANT_REFRESH_SCHEDULE org.eclipse.team.ui.CTX_REFRESHSCHEDULE_ENABLED="false" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_INTERVAL="3600" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_RUNONCE="false"/>
@@ -10,7 +10,7 @@
 </mappings>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS>
-<gitSynchronizeData container="/Users/SEONGYUNISM/DATA/PROGRAMMING/WORKSPACE/ZADRAK/RemoteSystemsTempFiles" dstRev="HEAD" inludeLocal="true" srcRev="HEAD"/>
+<gitSynchronizeData container="/Users/SEONGYUNISM/git/zadrak/zadrak" dstRev="refs/remotes/origin/master" inludeLocal="true" srcRev="HEAD"/>
 </data>
 </participant>
 </syncparticipants>
